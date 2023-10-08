@@ -1,3 +1,4 @@
 # MQTT-WebSocket-Web-Project
 I completed this project during my mandatory internship at the Kodar company, and I would like to begin by thanking them for assisting me in my development. The purpose of the project was to grasp what MQTT Server and WebSocket are and how to use them. Additionally, I aimed to enhance the project by learning the frontend, an area I had no prior knowledge of, and I designed a functional web interface, albeit not too intricate, using HTML5, CSS, and JavaScript. For the backend, I utilized Node.js, a technology I used for the first time. This project helped me lay the foundation and understand many communication protocols on the web. Moreover, I developed and utilized an API to integrate the backend and frontend sections. It was a very beneficial project for me.
+
 ![Ekran görüntüsü 2023-09-22 175857](https://github.com/furkankarlidag/MQTT-WebSocket-Web-Project/assets/118011754/a51a3da8-c99e-48dd-94a9-6ba6ad85a60d)
